@@ -1,6 +1,6 @@
 ---
 title: "Version Control Practice: Fictional Voter Turnout"
-author: "Your Name"
+author: "Levi Schiffer"
 output: html_document
 ---
 
